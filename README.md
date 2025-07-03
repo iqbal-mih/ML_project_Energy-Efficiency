@@ -1,4 +1,3 @@
-# ML_project_Energy-Efficiency
 # 🏡 Project: Energy Efficiency Prediction using Machine Learning
 
 This project focuses on predicting the **Heating Load (HL)** and **Cooling Load (CL)** of buildings using various machine learning models. The dataset comes from the [UCI Energy Efficiency Dataset](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency).
